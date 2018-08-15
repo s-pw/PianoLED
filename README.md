@@ -5,7 +5,7 @@
 This is a ESP8266 based LED controller for key instruments.
 It can be used as a cool gadget when playing piano or as a piano learning tool when connected to Synthesia that can light up correct keys.
 
-#Demo
+# Demo
 
 [![Piano MIDI LED Controller](https://img.youtube.com/vi/5f_Rrz4XK5c/0.jpg)](https://www.youtube.com/watch?v=5f_Rrz4XK5c)
 

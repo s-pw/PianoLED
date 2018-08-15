@@ -1,0 +1,12 @@
+h6 {
+    margin: 10px;
+    width: 100px;
+}
+
+label {
+    width: 140px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    border-color: white;
+}
